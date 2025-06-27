@@ -1,0 +1,43 @@
+.button {
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    outline: none;
+    border: none;
+    margin: 10px;
+}
+.large {
+    width: 200px;
+}
+.small {
+    width: 150px;
+}
+.black {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.black:hover {
+    background-color: #292929;
+}
+.green {
+    background-color: #D8FA00;
+    color: #000000;
+}
+.green:hover {
+    background-color: #B4D000;
+}
+.white {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+.white:hover {
+    background-color: #DBDBDB;
+}
+.gray {
+    background-color: #292929;
+    color: #FFFFFF;
+    border-radius: 0;
+}
+.gray:hover {
+    background-color: #383838;
+}
