@@ -15,7 +15,7 @@ function App() {
     return (
         <div className="app">
             <Navbar />
-            <h1>Добро пожаловать в Самару</h1>
+            <h1>Заглавная</h1>
 
             <Button color="green" size="large">Вход</Button>
             <Button color="green" size="large">Регистрация</Button>
